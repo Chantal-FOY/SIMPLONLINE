@@ -1,0 +1,101 @@
+table
+{
+    color : yellowgreen;
+    text-align: center;
+}
+.form-group
+{
+    float:left;
+}
+body
+{
+
+    /*ajout par Chantal*/
+    background-color:yellowgreen;
+    padding: 2px;
+}
+img /* ajouté par Chantal*/
+{
+    border-radius: 1em;
+}
+.search
+{
+    display: inline-flex;
+    vertical-align: top;
+    /*margin-left: 910px;*/
+    margin-left: 700px;
+
+}
+.block1
+{
+    background-color: #242424;
+    display: inline-flex;
+    width: 100%;
+}
+.textblock1
+{
+    color: white;
+    margin-top: 25px;
+    margin-left: 15px;
+    padding: 10px;
+}
+.textblock2
+{
+    margin-left: 15px;
+    padding: 10px;
+    color: white;
+}
+.textblock3
+{
+    color: brown;
+    width : 500;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-left: 15px;
+    padding: 10px;
+    border: 3px solid brown;
+    border-radius: 5px;
+    text-align :center;
+}
+.centrage
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-left: 15px;
+    padding: 10px;
+    text-align :center;
+}
+footer
+{
+    background-color:#242424;
+    padding: 10px;
+}
+table{
+    margin-left : auto;
+    margin-right: auto;
+    color:white;
+    /*border-collapse:collapse;*/
+    border:3px solid white;
+    text-align : center;
+}
+thead{
+    background-color: orange;
+    color:green;
+    border:3px solid white;
+}
+tbody{
+    background-color: orange;
+    color:green;
+    border:3px solid yellowgreen;
+}
+
+td,th
+{
+    width: 100px;
+    height:50px;
+    text-align:center;
+    border:3px solid white;
+}
+
